@@ -14,6 +14,7 @@ Deployed on Render:
 
 Frontend: [(https://full-stack-ecommerce-frontendd-suqt.onrender.com)]  
 Backend: [https://full-stack-ecommerce-backend-3odp.onrender.com]
+
 Admin: [(https://full-stack-ecommerce-admin-tz8t.onrender.com)]
 
 ## 📌 Features
