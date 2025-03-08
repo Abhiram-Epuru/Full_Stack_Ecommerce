@@ -38,9 +38,7 @@ Secure API with validation
 
 🛠️ Tech Stack
 
-Frontend:
-
-React.js (with Hooks & Context API/Redux)
+Frontend:React.js (with Hooks & Context API/Redux)
 Tailwind CSS / Material UI (for styling)
 React Router (for navigation)
 
