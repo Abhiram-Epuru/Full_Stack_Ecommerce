@@ -19,45 +19,45 @@ Admin: [(https://full-stack-ecommerce-admin-tz8t.onrender.com)]
 
 ## 📌 Features
 
-# ✅ User Features:
+✅ User Features:
 
 Browse and search for products
 Add products to the cart and checkout
 User authentication (Sign-up, Login, Logout)
-# ✅ Admin Features:
+✅ Admin Features:
 
 Add, update, and delete products
 Manage users and orders
 View sales analytics
-# ✅ Backend:
+✅ Backend:
 
 RESTful APIs for handling products, users, orders, and payments
 JWT authentication with role-based access (User/Admin)
 Secure API with validation
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-# Frontend:
+Frontend:
 
 React.js (with Hooks & Context API/Redux)
 Tailwind CSS / Material UI (for styling)
 React Router (for navigation)
 
-# Backend:
+Backend:
 Node.js & Express.js
 MongoDB & Mongoose
 JWT Authentication
 
 
-# Deployment:
+Deployment:
 Frontend & Backend: Render
 Database: MongoDB Atlas
 
 
 ## 🎯 Installation & Setup
 
-# 🔹 Clone the Repository
+🔹 Clone the Repository
 
 git clone https://github.com/Abhiram-Epuru/Full_Stack_Ecommerce.git
 cd your-repo-name
@@ -66,12 +66,12 @@ cd your-repo-name
 ## 🔹 Install Dependencies
 
 
-# Backend:
+Backend:
 
 cd backend
 npm install
 
-# Frontend:
+Frontend:
 
 cd frontend
 npm install
@@ -82,11 +82,11 @@ npm install
 
 ## 🔹 Start the Application
 
-# Backend:
+Backend:
 
 node index.js
 
-# Frontend:
+Frontend:
 
 npm start
 
