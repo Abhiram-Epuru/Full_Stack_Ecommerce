@@ -12,8 +12,9 @@ Admin Dashboard (Admin panel for managing products, orders, and users)
 ## 🚀 Live Demo
 Deployed on Render:
 
-https://full-stack-ecommerce-frontendd-suqt.onrender.com
-https://full-stack-ecommerce-backend-3odp.onrender.com
+Frontend: [(https://full-stack-ecommerce-frontendd-suqt.onrender.com)]  
+Backend: [https://full-stack-ecommerce-backend-3odp.onrender.com]
+Admin: [(https://full-stack-ecommerce-admin-tz8t.onrender.com)]
 
 ## 📌 Features
 
