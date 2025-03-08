@@ -21,9 +21,9 @@ Admin: [(https://full-stack-ecommerce-admin-tz8t.onrender.com)]
 
 ✅ User Features:
 
-Browse and search for products
-Add products to the cart and checkout
-User authentication (Sign-up, Login, Logout)
+Browse and search for products.
+Add products to the cart and checkout.
+User authentication (Sign-up, Login, Logout).
 ✅ Admin Features:
 
 Add, update, and delete products
